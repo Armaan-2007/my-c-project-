@@ -1,0 +1,14 @@
+
+
+
+Simple LocalStorage-based expense tracker for B.Tech project.
+
+1. Unzip the project.
+2. Open the folder in VS Code.
+3. Install Live Server extension (optional) and click "Go Live" OR open `index.html` in browser.
+
+- index.html — Home
+- add.html — Add expense page
+- view.html — View & export expenses
+- style.css — Neon dark styling
+- script.js — Logic using LocalStorage
